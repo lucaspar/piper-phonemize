@@ -1,5 +1,5 @@
 [project]
-    authors         = [{ name = "Piper Team", email = "mike@rhasspy.org" }]
+    authors         = [{ name = "Michael Hansen", email = "mike@rhasspy.org" }]
     dependencies    = ["pybind11>=2.13.6", "setuptools>=75.8.0", "wheel>=0.45.1"]
     description     = "Phonemization library used by Piper text to speech system"
     name            = "piper-phonemize"
